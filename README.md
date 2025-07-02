@@ -1,7 +1,6 @@
 # 🧮 Calculator - A Web Application
 
 A sleek and functional calculator web application built with HTML, CSS, and JavaScript. This project provides a user-friendly interface for performing basic arithmetic operations.
-S
 ---
 
 ## ✨ Features
