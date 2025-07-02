@@ -1,66 +1,45 @@
-# Calculator
+# 🧮 Calculator - A Web Application
 
 A sleek and functional calculator web application built with HTML, CSS, and JavaScript. This project provides a user-friendly interface for performing basic arithmetic operations.
+S
+---
 
-<ins> Features </ins>
-Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
+## ✨ Features
 
-Percentage Functionality: Calculate percentages easily.
+* **Basic Arithmetic Operations:** Perform addition, subtraction, multiplication, and division.
+* **Percentage Functionality:** Calculate percentages easily.
+* **Clear and Delete:** "AC" (All Clear) to reset the input and "DEL" to delete the last character.
+* **Responsive Design:** Styled to be visually appealing and usable across different screen sizes.
+* **Intuitive Interface:** A clean layout with distinct buttons for numbers and operators.
 
-Clear and Delete: "AC" (All Clear) to reset the input and "DEL" to delete the last character.
+---
 
-Responsive Design: Styled to be visually appealing and usable across different screen sizes.
+## 🚀 Technologies Used
 
-Intuitive Interface: A clean layout with distinct buttons for numbers and operators.
+* **HTML5:** For the basic structure and content of the calculator.
+* **CSS3:** For styling the calculator, including layout, colors, and button appearances.
+* **JavaScript:** For handling the calculator's logic, button interactions, and calculations.
 
-Technologies Used
-HTML5: For the basic structure and content of the calculator.
+---
 
-CSS3: For styling the calculator, including layout, colors, and button appearances.
+## 📝 Usage
 
-JavaScript: For handling the calculator's logic, button interactions, and calculations.
+* Click the number buttons to input your desired numbers.
+* Click the operator buttons (`+`, `-`, `*`, `/`, `%`) to perform operations.
+* Use the `AC` button to clear the entire input.
+* Use the `DEL` button to delete the last character.
+* Click the `=` button to get the result of your calculation.
 
-Getting Started
-To get a local copy up and running, follow these simple steps.
+---
 
-Prerequisites
-You only need a web browser to view and interact with this project.
+## 📂 Project Structure
 
-Installation
-Clone the repository:
-
-Bash
-
-git clone https://github.com/YOUR_USERNAME/calculator.git
-(Replace YOUR_USERNAME with your actual GitHub username and calculator with your repository name if it's different).
-
-Navigate to the project directory:
-
-Bash
-
-cd calculator
-Open index.html:
-Simply open the index.html file in your preferred web browser.
-
-Usage
-Click the number buttons to input your desired numbers.
-
-Click the operator buttons (+, -, *, /, %) to perform operations.
-
-Use the AC button to clear the entire input.
-
-Use the DEL button to delete the last character.
-
-Click the = button to get the result of your calculation.
-
-Project Structure
 .
 ├── index.html
 ├── style.css
 └── script.js
-index.html: The main HTML file that structures the calculator interface.
 
-style.css: Contains all the CSS rules for styling the calculator.
-
-script.js: Implements the JavaScript logic for calculator functionality.
+* `index.html`: The main HTML file that structures the calculator interface.
+* `style.css`: Contains all the CSS rules for styling the calculator.
+* `script.js`: Implements the JavaScript logic for calculator functionality.
 
